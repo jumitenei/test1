@@ -1,0 +1,12 @@
+recovery filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+BoardConfig.mk filter=lfs diff=lfs merge=lfs -text
+device.mk filter=lfs diff=lfs merge=lfs -text
+prebuilt filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+recovery.fstab filter=lfs diff=lfs merge=lfs -text
+recovery.wipe filter=lfs diff=lfs merge=lfs -text
+system.prop filter=lfs diff=lfs merge=lfs -text
+Android.mk filter=lfs diff=lfs merge=lfs -text
+AndroidProducts.mk filter=lfs diff=lfs merge=lfs -text
+twrp_ares.mk filter=lfs diff=lfs merge=lfs -text
